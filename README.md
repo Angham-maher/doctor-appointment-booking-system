@@ -20,16 +20,17 @@ The system aims to simplify the appointment booking process while considering pa
 
 | Student ID | Full Name | Assigned Task | Branch | PR Link |
 |---|---|---|---|---|
-| 20240062 | Ahmed Elrewiny | Application Implementation | `ahmed` | [PR #3]() |
+| 20240062 | Ahmed Elrewiny | Application Implementation | `Ahmed` | [PR #3](https://github.com/Angham-maher/doctor-appointment-booking-system/pull/3) – Merged |
 | 20240658 | Yasmin Mohamed Nabil | Class Diagram & Sequence Diagram | `yasmin` | [PR #1](https://github.com/Angham-maher/doctor-appointment-booking-system/pull/1) – Merged |
 | 20242058 | Angham Maher Abdelfattah | Use Cases & Use Case Diagram | `main` | N/A – Direct commits |
 
-- Yasmin worked on the `yasmin` branch and opened Pull Request #1, which was merged into `main`.
-- Ahmed and Angham worked directly on the `main` branch and did not submit separate Pull Requests.
+- Yasmin worked on the `yasmin` branch and merged Pull Request #1 into `main`.
+- Ahmed worked on the `Ahmed` branch and merged Pull Request #3 ("Add my changes") into `main`.
+- Angham worked directly on the `main` branch and did not submit a separate Pull Request.
 
 ## 4. Conflict Drill
 
-**Conflict Drill: Not Performed** – The team merged the Pull Request without encountering merge conflicts.
+**Conflict Drill: Not Performed** – The team did not encounter or intentionally resolve merge conflicts.
 
 ## 5. Requirements
 
@@ -76,10 +77,11 @@ The assignment requires the following files:
 ## 7. Development Workflow
 
 1. Yasmin created and worked on the `yasmin` branch.
-2. Yasmin submitted Pull Request #1.
-3. Pull Request #1 was merged into `main`.
-4. Ahmed and Angham contributed directly to `main`.
-5. The team worked on the implementation based on the project's requirements and diagrams.
+2. Yasmin submitted Pull Request #1, which was merged into `main`.
+3. Ahmed created and worked on the `Ahmed` branch.
+4. Ahmed submitted Pull Request #3, titled "Add my changes", which was merged into `main`.
+5. Angham contributed directly to `main` without submitting a separate Pull Request.
+6. The team worked on the implementation based on the project's requirements and diagrams.
 
 **Note:** Not all team members used separate branches or Pull Requests.
 
