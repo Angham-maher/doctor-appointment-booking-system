@@ -1,14 +1,4 @@
-"""Clinic Appointments System - demo implementation.
-
-Requirement status notes:
-  R5 (medical data accessible only to authorized staff): NOT IMPLEMENTED.
-      The system stores no medical data and has no roles or access control.
-  R6 (available times displayed within 2 seconds): DEMONSTRATED ONLY.
-      The demo takes a single in-memory timing measurement. This is not a
-      formal verification of the 2-second requirement.
-  Decline notification: SIMULATED. A console message is printed; nothing is
-      actually delivered to the patient.
-"""
+# Made by Ahmed Elrewiny
 import time
 from datetime import datetime, timedelta
 from itertools import count
