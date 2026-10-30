@@ -21,7 +21,7 @@ The system aims to simplify the appointment booking process while considering pa
 | Student ID | Full Name | Assigned Task | Branch | PR Link |
 |---|---|---|---|---|
 | 20240062 | Ahmed Elrewiny | Application Implementation | `Ahmed` | [PR #3](https://github.com/Angham-maher/doctor-appointment-booking-system/pull/3) – Merged |
-| 20240658 | Yasmin Mohamed Nabil | Class Diagram & Sequence Diagram | `yasmin` | [PR #1](https://github.com/Angham-maher/doctor-appointment-booking-system/pull/1) – Merged |
+| 20240658 | Yasmin Mohamed Nabil | Class Diagram & Sequence Diagram | `yasmin` | [PR #2](https://github.com/Angham-maher/doctor-appointment-booking-system/pull/2) – Merged |
 | 20242058 | Angham Maher Abdelfattah | Use Cases & Use Case Diagram | `main` | N/A – Direct commits |
 
 - Yasmin worked on the `yasmin` branch and merged Pull Request #1 into `main`.
